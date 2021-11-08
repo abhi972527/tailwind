@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css:build": "tailwind build ./src/style.css -o ./build/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi972527/tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi972527/tailwind/issues"
+  },
+  "homepage": "https://github.com/abhi972527/tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
